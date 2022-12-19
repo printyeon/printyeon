@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=🥰🐻💗&animation=fadeIn&type=Waving&color=timeGradient&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?text=🥰🐻💗&animation=fadeIn&type=Waving&color=timeGradient&fontAlign=80)
 
 ### SooYeon Lim
 ---
