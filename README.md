@@ -10,12 +10,12 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>&nbsp 
+</p>
 
 [![sooyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=printyeon&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/printyeon/printyeon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printyeon&layout=compact&langs_count=8&theme=white)](https://github.com/printyeon?tab=repositories&q=&type=&language=java&sort=)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=printyeon&repo=resume&show_owner=true&theme=white)](https://github.com/printyeon/resume) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=printyeon&repo=manual-job&show_owner=true&theme=white)](https://github.com/printyeon/manual-job)-->
 
-</p>
+
