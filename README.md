@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"></a>&nbsp 
 </p>
 
-![printyeon's github stats](https://github-readme-stats.vercel.app/api?username=printyeon&show_icons=true)
+![printyeon's github stats](https://github-readme-stats.vercel.app/api?username=printyeon&show_icons=true)&nbsp 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printyeon&layout=compact)](https://github.com/printyeon/github-readme-stats)
 
